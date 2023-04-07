@@ -1,7 +1,7 @@
-node_modules/
-dist/
-dist-zipped/
-yarn.lock
+lib/fxlens/**
+node_modules
+dist
+dist-zipped
 public/layers/*
 !public/layers/.dummy
 tmp/layers.json
