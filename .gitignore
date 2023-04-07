@@ -5,3 +5,4 @@ dist-zipped
 public/layers/*
 !public/layers/.dummy
 tmp/layers.json
+yarn.lock
